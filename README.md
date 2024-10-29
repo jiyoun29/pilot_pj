@@ -30,7 +30,7 @@
 - **관련 주피터 노트북**:
 -   [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/1W0OvCBjc6FkJwuxdI0Jn9bTVYA_6E3gU?usp=sharing)
 - **시연 영상**:
-- ![image](https://github.com/user-attachments/assets/23cb4ba2-2e0d-490a-bb6d-ab36e10f3cfc)
+- ![image](https://github.com/jiyoun29/pilot_pj/blob/main/v.png?raw=true)
   [폐결절 찾는 시연 연상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
 
   
