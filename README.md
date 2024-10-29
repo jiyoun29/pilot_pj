@@ -22,6 +22,7 @@
 - 유동인구 카운트 시연
 - ![KakaoTalk_20241029_120400844](https://github.com/user-attachments/assets/e83847d7-8639-450f-bfbf-6b4290952f65)
 
+
 ---
 
 ### 2. 엑스레이 사진에서 폐결절을 찾는 신경망
