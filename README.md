@@ -31,7 +31,7 @@
 - **관련 주피터 노트북**:
 -   [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/16fZuPOcj68I6GMZMe2peabQCnj1h1hqh?usp=sharing)
 - **시연 영상**:
-- ![image](https://github.com/jiyoun29/pilot_pj/blob/main/v.png?raw=true)
+- ![image](https://github.com/user-attachments/assets/9db86711-015e-4b50-89d9-7d7c777212fa)
 
 
 gif 만들기 
