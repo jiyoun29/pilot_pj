@@ -20,9 +20,7 @@
   - [OpenCV 공식 문서](https://docs.opencv.org/)
 - **시연 영상**:
 - ![image](https://github.com/user-attachments/assets/23cb4ba2-2e0d-490a-bb6d-ab36e10f3cfc)
-- [유동인구 카운트 영상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
-
-영상은 나중에 gif로 업데이트 
+- [유동인구 카운트 시연]( https://github.com/jiyoun29/pilot_pj/blob/main/KakaoTalk_20241029_120400844.gif?raw=true)
 
 ---
 
@@ -33,8 +31,9 @@
 -   [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/1W0OvCBjc6FkJwuxdI0Jn9bTVYA_6E3gU?usp=sharing)
 - **시연 영상**:
 - ![image](https://github.com/jiyoun29/pilot_pj/blob/main/v.png?raw=true)
-- [폐결절 찾는 시연 연상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
+- [폐결절 찾는 시연](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
 
+gif 만들기 
   
 ---
 
