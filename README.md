@@ -19,7 +19,6 @@
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
 - **시연 영상**:
-- ![image](https://github.com/user-attachments/assets/23cb4ba2-2e0d-490a-bb6d-ab36e10f3cfc)
 - 유동인구 카운트 시연
 - ![KakaoTalk_20241029_120400844](https://github.com/user-attachments/assets/e83847d7-8639-450f-bfbf-6b4290952f65)
 
