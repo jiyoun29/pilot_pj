@@ -4,6 +4,8 @@
 
 이 저장소에는 다양한 YOLO 신경망 활용 파일럿 프로젝트가 포함되어 있습니다. 각 프로젝트는 실시간 객체 탐지, 추적, 분석 등을 목표로 합니다.
 
+나중에 사진이랑 다 바꿔야 합니다... 
+
 ---
 
 ## 프로젝트 목록
@@ -11,6 +13,8 @@
 ### 1. 유동인구 카운트 YOLO 영상 파일럿 프로젝트
 - **프로젝트 설명**: YOLO 모델을 사용하여 영상 속 유동인구를 실시간으로 감지하고, 입장 및 퇴장 수를 카운트하는 시스템.
 - **주요 기능**: 사람 객체 탐지, 입장 및 퇴장 카운팅, 누적 인원 계산.
+- **관련 주피터 노트북**:
+-   [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/1W0OvCBjc6FkJwuxdI0Jn9bTVYA_6E3gU?usp=sharing)
 - **관련 링크**:
   - [YOLO 모델 다운로드](https://github.com/ultralytics/yolov5)
   - [OpenCV 공식 문서](https://docs.opencv.org/)
@@ -18,6 +22,18 @@
 - ![image](https://github.com/user-attachments/assets/23cb4ba2-2e0d-490a-bb6d-ab36e10f3cfc)
   [유동인구 카운트 영상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
 
+---
+
+### 2. 엑스레이 사진에서 폐결절을 찾는 신경망
+- **프로젝트 설명**: x-ray 사진을 분석하여 폐결절 자동 탐지 후 위치 표시.
+- **주요 기능**: 실시간 침입자 감지, 위험 알림, 비상 조치 기능.
+- **관련 주피터 노트북**:
+-   [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/1W0OvCBjc6FkJwuxdI0Jn9bTVYA_6E3gU?usp=sharing)
+- **시연 영상**:
+- ![image](https://github.com/user-attachments/assets/23cb4ba2-2e0d-490a-bb6d-ab36e10f3cfc)
+  [폐결절 찾는 시연 연상](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
+
+  
 ---
 
 ### 2. 도둑감지 YOLO 신경망 활용 파일럿 프로젝트
