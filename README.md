@@ -29,10 +29,10 @@
 - **프로젝트 설명**: x-ray 사진을 분석하여 폐결절 자동 탐지 후 위치 표시.
 - **주요 기능**: 실시간 침입자 감지, 위험 알림, 비상 조치 기능.
 - **관련 주피터 노트북**:
--   [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/1W0OvCBjc6FkJwuxdI0Jn9bTVYA_6E3gU?usp=sharing)
+-   [구글 코랩 주피터 노트북](https://colab.research.google.com/drive/16fZuPOcj68I6GMZMe2peabQCnj1h1hqh?usp=sharing)
 - **시연 영상**:
 - ![image](https://github.com/jiyoun29/pilot_pj/blob/main/v.png?raw=true)
-- [폐결절 찾는 시연](https://user-images.githubusercontent.com/yourusername/your-video-file1.mp4)
+
 
 gif 만들기 
   
